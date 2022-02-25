@@ -1,0 +1,513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Durus sermo, or Ænigma moriendi the mystery of dying daily: in a sermon preached in Plimouth, at the funeral of Mistress Joan Warren. By William Pyke, M.A. and rector of the parish of Stokeclimsland in the county of Cornwal.</title>
+            <author>Pike, William, b. 1617 or 18.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56317</idno>
+            <idno type="STC">Wing P4256</idno>
+            <idno type="STC">ESTC R220558</idno>
+            <idno type="EEBO-CITATION">99831954</idno>
+            <idno type="PROQUEST">99831954</idno>
+            <idno type="VID">36421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2131:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Durus sermo, or Ænigma moriendi the mystery of dying daily: in a sermon preached in Plimouth, at the funeral of Mistress Joan Warren. By William Pyke, M.A. and rector of the parish of Stokeclimsland in the county of Cornwal.</title>
+                  <author>Pike, William, b. 1617 or 18.</author>
+               </titleStmt>
+               <extent>[10], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nathanael Ranew at the King's Arms in S. Paul's Chucrh-yard [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: The mystery of dying daily: in a sermon on I corinth. 15. 31. the last clause. I die daily.</note>
+                  <note>Running title reads: The mystery of dying daily.</note>
+                  <note>Reproduction of the original in the John Rylands University Library of Manchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warren, Joan --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Corinthians, 1st --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Death --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36421:1"/>
+            <p>DURUS SERMO, OR <hi>Aenigma Moriendi:</hi> THE MYSTERY OF Dying Daily: IN A SERMON PREACHED In <hi>Plimouth,</hi> at the Funeral of Miſtreſs <hi>Joan Warren.</hi>
+            </p>
+            <p>By <hi>William Pyke,</hi> M. A. and Rector of the Pariſh of <hi>Stokeclimſland</hi> in the County of <hi>Cornwal.</hi>
+            </p>
+            <q>
+               <p>Behold I ſhew you a Myſtery. <bibl>
+                     <hi>1 Cor. 15.51.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>
+                     <hi>Phil. 1.21.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathanael Ranew</hi> at the <hi>King's Arms</hi> in S. <hi>Paul</hi>'s Chucrh-yard. 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36421:2"/>
+            <pb facs="tcp:36421:2"/>
+            <head>TO <hi>My Dear and Honoured Nephew, Mr.</hi> John Warren, <hi>Merchant in</hi> Plimouth. THE Author dedicates his mean and unworthy Medi<g ref="char:EOLhyphen"/>tations on this ſo eminent and important a Sub<g ref="char:EOLhyphen"/>ject, with apprecation of all increaſe of Grace in this Life, and Glory in a better.</head>
+            <opener>
+               <salute>Dear SIR,</salute>
+            </opener>
+            <p>WHat that ſad occaſion of the Funeral of ſo near a Relation offered me to impart, for the refreſhing and comforting of the ſpirits of many mournful Friends, and for the ſa<g ref="char:EOLhyphen"/>tisfying of many raiſed expectations, in bringing to their remembrance ſome things which ought to be every days thoughts, as they are every days hazard, your effectual requeſt
+<pb facs="tcp:36421:3"/>
+hath drawn forth to a common review: and if ſome witty cenſurer ſhould pretend to know already all that can be ſaid on this Scripture, and Subject, it being of ſo common a Concern, I only ſay, I am glad he hath been ſo well in<g ref="char:EOLhyphen"/>ſtructed; yet I fear he may need a Remembrancer, to whiſper in his ear, <hi>Abi tu, &amp; fac ſimiliter;</hi> for it fares with Sermons and Doctrines now adays, as with Seamens dangers, their commoneſs cauſeth their diſregard; and hearers are as the <hi>Catadupi,</hi> who are deaf with the frequent falls of <hi>Nile.</hi> Sir, I have been told of the deſires of many to have the fight of theſe Para<g ref="char:EOLhyphen"/>graphs; and I am willing to comply with; and to gratifie every ſuch pious deſire, if it be their piety indeed, and not their prejudice or partiality; and it were happy if the reading eye, as well as the hearing ear might be buſied in bringing in more Traffick to enrich the Soul, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut you eaſily apprehend the great diſadvantage of a dead let<g ref="char:EOLhyphen"/>ter, in compariſon of that life and energy which elocution adds to any diſcourſe; ſuch ſcribling of Sermons is but meer Paper-work in compariſon of the powerful utterance of the Preacher; and I more than conjecture, that theſe Notes will loſe much of their efficacy, by Tranſcription
+<pb facs="tcp:36421:3"/>
+with reference to the different time, place, and tem<g ref="char:EOLhyphen"/>per of Readers now, and Hearers then; for when Chri<g ref="char:EOLhyphen"/>ſtians attend at Funerals, and ſit over Graves, and are a<g ref="char:EOLhyphen"/>muſed with the doleful paſſing Bell, and look upon Skulls, and dead Bones, and Ghaſtly Spectacles, upon the drop<g ref="char:EOLhyphen"/>ping eyes and deſpondent looks of Mourners, they have, if ever, ſome ſuitable ſelf-humbling apprehenſions of their own mortality, and accordingly have more penetrable, and more penitential ſpirits, apter to take impreſſion from, and to make a more lively expreſſion of the more mortifying Doctrines.</p>
+            <p>And the ſame muſt Readers be of when they take in and to traverſe ſuch a Subject as is here preſented: they muſt go up to Mount <hi>Calvary,</hi> and walk up and down at <hi>Golgotha.</hi> I mean, their high minds muſt be, as 'twere mortalized, and they muſt with that Diſciple ſtoop down,<note place="margin">i. e. <hi>morti<g ref="char:EOLhyphen"/>fied.</hi>
+               </note> and look into the Sepulchre, and turn the Grave cloaths off the Holy Jeſus, who was dead, and is alive, that they may learn from him, as the great Exemplar, the Myſtery of dying whiles they live; may every one that ſhall read theſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lain Pages be thus diſpoſed, that his profiting may ap<g ref="char:EOLhyphen"/>pear,
+<pb facs="tcp:36421:4"/>
+and the Subject loſe no weight by the levity of the Reader; elſe all that is written may unhappily be reſented no better than a Riddle, or a waking Dream to drowzie reaſon, which is to the faith and practice of a lively Chri<g ref="char:EOLhyphen"/>ſtian, the moſt material concern of his whole life. Sir, whatſoever this well meant Eſſay may be, or howſoever it be taken, it is my firſt fruits of tendering ſuch kind of Preſents, which I offer to you in testimony of my Religi<g ref="char:EOLhyphen"/>ious Affection to you the principal of all my dear Kindred, to be made more publick from my hand to yours and theirs, and any ones elſe to whom you ſhall pleaſe to recommend it; for it challengeth entertainment, (which is a bold word) but not from any thing on the Auohors part, but from its own excellent and Catholick Obligation. And that the Diſcourſe may meet with the like reception, as when firſt delivered (for God gave utterance, entrance, acceptance, and all of his Grace) I have cauſed and confined my con<g ref="char:EOLhyphen"/>ceptions, as near as I could to go back to the very plain ſtile wherein I then expreſſed them; as thinking it better, (though not eaſier) to fetch up thoſe very words I let fall, than to ſtart a new ſtrain, and follow the chaſe of a more polite and better ſtudied language; wherefore
+<pb facs="tcp:36421:4"/>
+what it pleaſed my dear Friends to hear with patient atten<g ref="char:EOLhyphen"/>tion, and with ſo good liking to approve, and with ſo hearty affection to deſire, I do not repine, and hope ſhall not re<g ref="char:EOLhyphen"/>pent that it ſhould come abroad; that this Paper may pre<g ref="char:EOLhyphen"/>ſent thoſe things to the eyes of all our Relations, and o<g ref="char:EOLhyphen"/>ther Chriſtian Well-willers, which in the Delivery (for which I bleſs God) ſounded ſo well in the ears of your experienced Auditors, (and I hope in God) found an e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al room and reſidence in ſo many gracious hearts.</p>
+            <p>I confeſs it is an eaſier Task for a Preacher, Writer, Reader, than for a practiſer of this Diſcourſe, <hi>Sic vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere, ſic mori.</hi> And there's no cauſe to fear it, one <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>S. Peters</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, things hard to be underſtood, as it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hard to be undergone; for like all other neceſſary Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pel Truths, it is plain in its own ſimplicity, and may <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have a free paſſage, (not through the ears, but) <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rough the life in a free practice,<note place="margin">Act. 17.</note> elſe it will be uſed as a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing (as at <hi>Athens</hi>) only to be admired and talk<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of.</p>
+            <p>
+               <pb facs="tcp:36421:5"/>But I truſt this fault of Men, and Fate of Sermons will be amended and prevented by this Doctrines Enter<g ref="char:EOLhyphen"/>tainment; for although it be foreign and formidable to ſelf ſparing nature, yet is it highly pertinent and prevalent in order to the advances of Grace, and a ſober, juſt, and pious life; and although it ſeems to be all Myſtery, and Theory, and Paradox for the living <hi>daily</hi> to <hi>die;</hi> yet <hi>S. Paul</hi> reduceth it to a practicable State: <hi>As dy<g ref="char:EOLhyphen"/>ing,</hi>
+               <note place="margin">2 Cor. 6.9.</note> 
+               <hi>and behold we live.</hi> In ſhort, it is a Task, though difficult, yet poſſible (as all Salvation work is.) It is an excellent Art, and a neceſſary comprehenſive Duty, of vaſt Extent; and as a rich Merchant of co<g ref="char:EOLhyphen"/>pious correſpondence, and brings home to the Soul upon good aſſurance a vast Revenue of Wiſdom and good Works.</p>
+            <p>And I do rejoice, Sir, that you told me this Sermon was by many moſt paſſionately craved in Copy, which is a pledge, and likely preſage, that all which may have the
+<pb facs="tcp:36421:5"/>
+draught of it, may, and do reſolve to write and walk af<g ref="char:EOLhyphen"/>ter it in duty; which that they may, the God of all Truth and Grace go forth with it, and proſper it, and bleſs thoſe that read and hear it, ſo as to learn and live it, and all in the rare exerciſe of <hi>Daily Dying.</hi>
+            </p>
+            <p>For me (dear Sir) whatſoever I am, or have, or can ſpeak, write, or act in the utmoſt of my poor Facul<g ref="char:EOLhyphen"/>ties, which are any ways communicable, you have juſtly merited that all ſhall be yours: ſo as this, and whatever Service I ſhall be capable to do for you, is devoted to your ſelf, not only upon the account of ſo near Relation, and ſo notable Benefactions, but from the confidence I have that much of this <hi>Myſtery</hi> is already tranſcribed, and become legible in your own heart; and theſe ſeverer Truths make deepeſt Impreſſes, and find beſt reception upon the Heart-Tables of experienced Chriſtians, ſuch prize them beſt, practiſe them best, and prove them beſt. And that you and I and all that read theſe Lines may be of this number, and we all may ſet upon this Work, and
+<pb facs="tcp:36421:6"/>
+do it well, for it is our Master-piece for Eternity, is the Hearts deſire, and prayer of</p>
+            <closer>
+               <salute>Dear Sir,</salute>
+               <signed>
+                  <hi>Your ſincerely Devoted Uncle and Servant in Faith, and Love, Which is in Jeſus,</hi> William Pyke.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:36421:6"/>
+            <head>THE MYSTERY OF Dying Daily: A SERMON ON
+<bibl>1 Corinth. 15.31.</bibl> the laſt Clauſe. <hi>I die daily.</hi>
+            </head>
+            <p>MY Text lies within the Territory of the King of Terrours,<note place="margin">Job 18.14</note> whoſe Empire ſpreads it ſelf from Pole to Pole, as far as Mortals have any ground to live, or lie on; even the wide Sea hath its depths for the Sepulture of the dead, as well as for the floating and flitting Traffick, and paſſage and wonderment
+<pb n="2" facs="tcp:36421:7"/>
+of the living; there is no ſpot in this habitable world, or navigable waters, but hath a place as rightfully and readily for mens Recumbency, as for their Reſidence; and the neceſſity of dying once, which is by Statute entayl'd on the Community of Mankind,<note place="margin">Heb. 9.27.</note> is by our Heavenly Apoſtle S. <hi>Paul</hi> converted into an Act of Religion, and is eſpouſed into his Choice, and is taken into his care and timely fore<g ref="char:EOLhyphen"/>caſt and expectancy, and daily account; he tells us, he was in Deaths, oft; 2 <hi>Cor.</hi> 11.23. and here he tells us, Death was in his view and voyſinage every day, not only in re<g ref="char:EOLhyphen"/>ſpect of Deaths Imminency, as, daily in the danger, and in jeopardy every hour; but in reſpect of dying Concerns, Cauſes, Deſigns, Duties, Conſiderations, as, daily buſied about the preparative, proviſional, and conſolative qualifica<g ref="char:EOLhyphen"/>tions, requiſite for the dying Eſtate. And all this he repre<g ref="char:EOLhyphen"/>ſents in all Apoſtolick Preſidency, as an unerring pattern for Catholick Practice, for all Chriſtians Imitation, be<g ref="char:EOLhyphen"/>cauſe it is the great Task of the Religion of our dying Lord, who gave his Diſciples the ſame Example, and all his ever ſince, and ſo on till our laſt Enemy be deſtroyed; that as we follow in an inevitable ſucceſſion of mortality, ſo we ſtand bound to be followers of them who were fol<g ref="char:EOLhyphen"/>lowers of Chriſt; to do that often, which ought to be done well, that we do it at laſt but once; and ſo may die not only as Mortals, but as Chriſtians, with wiſdom, in inno<g ref="char:EOLhyphen"/>cence, and in peace; and not like Beaſts, or Fools, or Infidels.</p>
+            <p>I know whatever we fancy or flatter our ſelves, every one of us preſent is daily dying, in jeopardy every hour: nay, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come nearer every moment: the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of death hanging over our Heads but by a Heir, and ſome may be but a hairs breadth, and ſome but a hairs length at moſt from the Grave; it is but God's ſpeaking the word, not <hi>mort<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ris in ill<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> die,</hi> but <hi>mort<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, thou art a dead man;</hi> as to <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imelech,</hi>
+               <note place="margin">Pſal. 104.29.</note> Gen 20.3. for 'tis upon his breath we live; and though it be called our Breath, it is only becauſe it
+<pb n="3" facs="tcp:36421:7"/>
+plays in our Noſtrils, but it is under God's Reſtraint; if he reſtrain our ſpirit, we die, and return to our Duſt. Lo, death and duſt are ours, but our breath is his who gives and takes, continues and reſtrains at pleaſure; 'tis but the going forth of God's breath in ſummons, and ours goes forth in expiration; Lord, upon how ſlippery ground do our Feet ſtand, as upon the waters paved with Ice, which is both ſliding and brittle, ſo as there is not more danger of falling, than of ſinking! Since then our dying is conſecra<g ref="char:EOLhyphen"/>ted by the Lord Jeſus Chriſts once dying for us, and we muſt die before we can bliſsfully ſee our living Redeemer, it grows into a rational Chriſtian Service, from our Apo<g ref="char:EOLhyphen"/>ſtles practice, to die daily. <hi>I die daily.</hi>
+            </p>
+            <p>The Text is ſhort, hardly one in Scripture ſhorter; but it is with theſe ſacred Clauſes, as with Coins or Jewels, in ſmalleſt compaſs is the greater value. So have we ſeen rare Beauties drawn in little Tablets, and a world of Coun<g ref="char:EOLhyphen"/>tries deſcribed in little Maps. So here's much counſel in a narrow room; and the Holy Ghoſt affects Brevity, as ma<g ref="char:EOLhyphen"/>king wholeſome Truths more portable for memory, and readier for uſe; ſuch is this, exceeding compendious, and of rich Contents. 'Tis a precious Paragraph this, that three words, and four ſyllables ſhould compriſe the buſineſs of the Chriſtian Life. The words are S. <hi>Paul</hi>'s, as the work was his, he was a Veſſel of Election, and we need not doubt but he preſents us a choice draught, he vents it up<g ref="char:EOLhyphen"/>on this occaſion.</p>
+            <p>An unhappy Doctrinal Error againſt the Reſurrection, ſpringing from the old four Leven of the Sadduces, which threatned to Leven the whole Lump: 1 <hi>Cor.</hi> 5.6. had pri<g ref="char:EOLhyphen"/>vily crept into the Church of <hi>Corinth,</hi> which occaſioned an excellent Demonſtrative Diſcourſe of the Apoſtle upon that weighty ſubject, which is ſolid enough to eſtabliſh many thouſand Souls in the ſucceding Churches, and ſerves to ſhame and extirpate all the Hereſies about it, until the Reſurrection come to prove it ſelf. In this his Diſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſe he
+<pb n="4" facs="tcp:36421:8"/>
+beats much upon the Scriptural and rational proof of it, and confirms all by occular Teſtimony. But as not con<g ref="char:EOLhyphen"/>tented to dwell on the Doctrinal and Theorical part to the 29 <hi>verſ.</hi> he comes to perſonal and practical Inſtances, as from that particular notable Ceremony or Ritual of the Church, and Cuſtom of Antiquity, (and I muſt tell you Church-Cuſtom in S. <hi>Paul</hi>'s time,<note place="margin">1 Cor. 11.16.</note> and in this Epiſtle car<g ref="char:EOLhyphen"/>ries much force) and that was, Baptiſing the dead; the beginning whereof, it ſeems, was, if not altogether good and laudable, yet it was inoffenſively tolerable, which was, that when any one died in the profeſſion of the Faith of Jeſus Chriſt before he could be waſhed and cleanſed as for his Interment, ſome one or more of the Chriſtian Friends would come and offer themſelves to be ſprinkled both in their own names, and in the name of the deceaſed, whom they atteſted to have died in the Faith of Chriſt; that the Church might write them down in the Regiſter, then kept for Believers, who dying, they publickly prayed for their happy Reſurrection. And ſo the Apoſtles Argument bears, elſe what ſhall they do which are baptiſed for the dead; if the dead riſe not at all, why are they then bapti<g ref="char:EOLhyphen"/>ſed for the dead?</p>
+            <p>This Cuſtom was anciently obſerved by the Corinthi<g ref="char:EOLhyphen"/>ans, a ſort of Hereticks, who notwithſtanding their own practiſe, denyed the Reſurrection of Bodies, and it is like<g ref="char:EOLhyphen"/>ly, were Authors of the Error, taxed in this Chapter, in the Church of the Corinthians; wherefore S. <hi>Paul</hi>'s meaning is, that this cuſtom which weighed ſo much in thoſe days were very abſurd, if there were no Reſurrecti<g ref="char:EOLhyphen"/>on, ſeeing that the very Ground and Foundation of Ba<g ref="char:EOLhyphen"/>ptiſm, not only Sacramental, but Ritual, is to ſeal unto us both our ſpiritual and corporal riſing from the dead.<note place="margin">Rom. 6.3.4. Coloſſ. 2.12.</note> And the end of this particular Ceremony was the profeſ<g ref="char:EOLhyphen"/>ſion of the expectance of the bleſſed Reſurrection of Be<g ref="char:EOLhyphen"/>lievers: a Cuſtom which in following Ages was much a<g ref="char:EOLhyphen"/>buſed unto Superſtition, but without doubt was primitive<g ref="char:EOLhyphen"/>ly blameleſs, and piouſly practicable.</p>
+            <p>
+               <pb n="5" facs="tcp:36421:8"/>Then the Apoſtle comes to a general Inſtance by way of <hi>Quaere,</hi> why, and for what reaſon, and upon what hope do Chriſtians expoſe themſelves voluntarily to death, and to ſo many Dangers, Conflicts and Tryals for the Goſpel, and the Cauſe of Chriſtianity, if it bringeth us to no hap<g ref="char:EOLhyphen"/>pineſs after this life; which happineſs according to God's order, and our own aims, cannot be of the Soul alone without any relation to the body, being eternally ſeparate from it, <hi>verſ.</hi> 19. and 32. compared.</p>
+            <p>Laſtly he comes to his own perſonal experience and pra<g ref="char:EOLhyphen"/>ctiſe, and by a moſt ſtrong aſſeveration or aſſertion equi<g ref="char:EOLhyphen"/>valent to an Oath, which is in the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">A particle never uſed by the Greeks, but in Oath on<g ref="char:EOLhyphen"/>ly.</note> which is here rendred I proteſt, as if he had ſaid, as true as my chief Glory and Joy in this world is in the bleſſing of God on my Miniſtry towards you; which he ſeems to ſpeak ſo ear<g ref="char:EOLhyphen"/>neſtly, that he might the more oblige his Corinthians not to deprive him of that only comfort, amongſt ſo many ſufferings, as ſure as you miniſter Joy to me, or as I in my Miniſtry rejoyce you; or that he might the more forcibly preſs on them his own Example, and the more prevalent<g ref="char:EOLhyphen"/>ly win them unto Imitation, <hi>I die daily.</hi>
+            </p>
+            <p>The words are but three, and promptly furniſh me with three part, which I intend ſhall bound my Sermon.</p>
+            <p>The Proteſtant, <hi>I.</hi>
+            </p>
+            <p>The matter proteſted, <hi>Die.</hi>
+            </p>
+            <p>The Diuturnity of its practice, <hi>Daily.</hi>
+            </p>
+            <p>The Proteſtant is preſented in the perſonal Pronoun ſin<g ref="char:EOLhyphen"/>gular <hi>(I)</hi> S. <hi>Paul,</hi> the Apoſtle of the Gentiles, in his Or<g ref="char:EOLhyphen"/>der and Epiſtolar Writings, which are tantamount his Sermons, a great Preacher, a living Preſident to the Churches in all his holy life and labours. His Eminency did not exempt him from ſtrict Religion, no more than from Mortality, he, who when he ſays I live, he corrects himſelf, <hi>Yet not I but Chriſt liveth in me,</hi> Galat. 2.20.<note place="margin">Philip, 1.21.</note> To whom to live was Chriſt. When he ſays, <hi>I die,</hi> to be ſure it is he, the ſame that proteſteth in his mortal, but re<g ref="char:EOLhyphen"/>generate
+<pb n="6" facs="tcp:36421:9"/>
+Eſtate, affirming that the better birth is an en<g ref="char:EOLhyphen"/>trance and engagement to a dying life, and the choiceſt Saints, are both Veſſels of Earth, and of Election; as of Earth, ſo muſt we return to our Earth; and as of Election, ſo muſt we die unto this world, as Heirs of a better. New creatures live by a new way of dying, we live unto God by dying unto ſin. The choſen of God have a dying principle, from the Prince of Life,<note place="margin">Rom. 6.3, to 12.</note> who died and roſe again. S. <hi>Paul</hi>'s Emi<g ref="char:EOLhyphen"/>nency in Grace directed him to the frequent exerciſe of Mortification; Dying was his life, whoſe Dignity was to live to God; this is that only life which makes death the Chriſtians Game. To the common Herd of Men, to live is ſin, and to die is loſs: but to S. <hi>Paul</hi> and ſuch as he, to live is Chriſt, and to die is Gain; Chriſt was that great Example of the dying life of a Chriſtian, whom this his Apoſtle followed in the exactneſs of ſo choice a Myſtery of <hi>Dying Daily.</hi>
+            </p>
+            <p>Who? S. <hi>Paul</hi> the Priſoner; <hi>Eph.</hi> 4.1. no wonder if a Priſoner ſaith, <hi>I die;</hi> for a Priſon is but a larger Grave, and ſuch a one as is fettered and penned up within Bars and Bolts, and Grates and Gyves, is but one buryed alive, and ſuch a one may juſtly ſay, <hi>I die.</hi> No, the Apoſtle ſhews himſelf a Freeman, the Priſon Gates are open, the Bars are broken, and Gyves are knocked off from him that can ſay, <hi>I die,</hi> in the ſenſe of the Text. Time was when <hi>Paul</hi> himſelf thought he was a jolly perſon in a live<g ref="char:EOLhyphen"/>ly poſture; <hi>Rom.</hi> 7.9. yet, <hi>Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the commandment came, ſin revived, and h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi> Then was <hi>Paul</hi> a Priſoner indeed, even as a G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly Slave ſold under ſin; then he ſtood in ſo great need of a Redeemer, to deliver him from that body of death: but now being made free from ſin, and become the ſervant of God, he goes about to kill that which would have ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in him, and to lead his C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptivity captive, to cruci<g ref="char:EOLhyphen"/>fie the old man, that the B dy of Sin might be deſtroyed. This is he wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:36421:9"/>Who, S. <hi>Paul</hi> the aged? well may ſuch a one ſay, <hi>I die:</hi> for Age is the next ſtage to death, nay,<note place="margin">Philemon v. 9.</note> the next ſtep to the Grave, when one Foot is already in; what a fardle of dying Infirmities doth old Age carry on its back? yet the oldeſt living hopes to live a little longer; yet there are many that have lived to great age and experience, who have not yet learn'd to die:; 'twas never in their ſtudy, nor practice. If men would exerciſe themſelves this way, what a Glory would it be to ſee many years, and many-fold Graces to meet in one perſon; the hoary Head is a Crown of Glory, if found in the way of righteouſneſs. No doubt, S. <hi>Paul</hi>'s Age was to be reckoned by holy Endow<g ref="char:EOLhyphen"/>ments, as well as hoary Hairs; his Communion with the Ancient of days, and his relyance on the Rock of Ages, his Statu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Chriſt, and his Improvements for Eternity, his Growth in Grace and ſaving Wiſdom, his long ſerving God in his Generation, and the innumerable advantages he had procured to the Churches of Chriſt, and the ever<g ref="char:EOLhyphen"/>laſting good done ſo many ſouls which profited by his ef<g ref="char:EOLhyphen"/>fectual Miniſtry, were ſo happy productions of his time and pains, as that his Age might be better computed by his good works, than by multitude of years; this was he who ſo lived every day, that all his days of his Convert Life, were his dying days.</p>
+            <p>Who, S. <hi>Paul</hi> the Hebrew? the Iſraelite?<note place="margin">1 Cor. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.22, 23. &amp;c.</note> of the ſtock of <hi>Abraham?</hi> the Miniſter of Chriſt? ſo abundant in la<g ref="char:EOLhyphen"/>bours? ſo frequent in dangers, ſo patient in ſufferings; for him to ſay, <hi>I die,</hi> you may believe him without an Oath, and wonder rather that he lived, when ye read the Catalogue of his Adventures, 1 <hi>Cor.</hi> 11.28. His daily care of the Churches, his intimate Sympathies, and ardent <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>plyances of Charity; for ſuch a one as waſted himſelf <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a burning Taper, to give others light, ſuch an one as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Lungs, ſpent his Breath<g ref="char:punc">▪</g> macerated his bo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, beating his brains, and eating his bread in a worſe <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eat than that of his brows, breaking his ſleep, burning
+<pb n="8" facs="tcp:36421:10"/>
+as in a Feaver of Zeal for God's Honour, and the Goſpels furtherance, and bringing in of ſtubborn and gainſaying Sinners to Chriſt, weeping in ſecret, and vexing his righ<g ref="char:EOLhyphen"/>teous ſoul for the evil converſations and froward diſpoſiti<g ref="char:EOLhyphen"/>ons of men; ſurely ſuch a one may ſadly, yet ſafely ſay, <hi>I die daily.</hi>
+            </p>
+            <p>Or yet again, is it <hi>Paul</hi> the choſen Veſſel, once a notori<g ref="char:EOLhyphen"/>ous Perſecutor, now an eminent Saint; once a Blaſphe<g ref="char:EOLhyphen"/>mer, a cruel blood-ſucker, under whoſe Tyrannous Agi<g ref="char:EOLhyphen"/>tations many <hi>died daily</hi> Martyrs for the Truth of Chriſt, once mad againſt the Church with too much zeal, again reputed mad with too much Learning; ſometimes a <hi>Boa<g ref="char:EOLhyphen"/>nerges,</hi> in his thundering Comminations, then a <hi>Barnabas,</hi> in his Conſolatory Rhetorick; ſuch an one as hath experi<g ref="char:EOLhyphen"/>enced all the methods of the Chriſtian Calling, and the perils and perſecutions attending that envied Cauſe, ſuch a one as had been in the Deeps, by Soul-afflicti<g ref="char:EOLhyphen"/>on,<note place="margin">1 Cor. 12.2.</note> and in the heights of the third Heaven, by Rapture and Revelation; one who might glory to the utmoſt, even to the degree of his Apoſtolate, or Saintſhip, as to his ex<g ref="char:EOLhyphen"/>cellency in Labours, Faculties, Gifts or Graces? This is he who affirms of himſelf, <hi>I, even I, die daily.</hi>
+            </p>
+            <p>Now if we find him in this mortified poſture, conſider<g ref="char:EOLhyphen"/>ing his Eminency, which might be ſo far doubted, as that it put this holy man upon his Oath to atteſt it, <hi>ſans</hi> diſpute, he may be believed, he <hi>died daily</hi> in his meaner and more ordinary capacities; if he was ſo buſie about dying as an Apoſtle, we conclude him ſo too, as a Tent-maker. If he <hi>died daily</hi> as a Saint, as the chief of Sinners much more: It is enough to ground a Preſident in the caſe, and to render it an acquirable faculty, and to determine it the Epitome, or Brief of Practical Chriſtianity, To <hi>die daily.</hi>
+            </p>
+            <p>But is not this <hi>Durus Sermo?</hi> may we not with <hi>Nicode<g ref="char:EOLhyphen"/>mus</hi> in ſuch a caſe,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 60.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſay <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>How can theſe things be?</hi> Can a man die whiles he lives? Such ſayings are Spirit, not Letter; Myſtery, not Demonſtration.</p>
+            <p>
+               <pb n="9" facs="tcp:36421:10"/>This is a kind of dying, which conſiſts in Action, not in Ceſſation; in labouring, not in reſt from Labours. Such as in <hi>Jacob</hi>'s expreſſion, <hi>Gen.</hi> 48.21. <hi>Behold, I die;</hi> yet he had much to do, and 'tis the ſtory of another Chapter, before he gave up the Ghoſt; noting, there is a way of dying for good men before they expire.</p>
+            <p>To <hi>die,</hi> in the Text, may have a five-fold ſenſe.</p>
+            <p n="1">1. To be in continual jeopardy of death, in the forego<g ref="char:EOLhyphen"/>ing Verſe: for we are ſubjected to death every moment, by ſentence on <hi>Adam</hi>'s ſin, <hi>verſ.</hi> 22. we are under the ſta<g ref="char:EOLhyphen"/>tute of Mortality in our beſt and moſt vigorous ſtrength and ſufficiency, whiles our Breaſts are full of Milk, and our Bones full of Marrow; we have the ſentence of death in our ſelves, and through fear of death,<note place="margin">Job 21.24.</note> are all our life time ſubject to bondage; we live but as condemn'd per<g ref="char:EOLhyphen"/>ſons under reprieve; and life being but a ſpan, every Inch and Barley-breadth of time is but a reſpite of the divine patience, protracting the Date, for our better perfecting our Duty; we are ſure we carry deaths enough within us, as to give our Bodies themſelves the denomination of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as being incident to deaths ſtroke, as open to deaths ſting every moment. Nor youth, nor ſtrength,<note place="margin">Rom <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.24.</note> nor wiſdom, nor wealth, nor power, nor parts, nor ſuf<g ref="char:EOLhyphen"/>ficiency, nor ſanctity can exempt, nor prevent, nor re<g ref="char:EOLhyphen"/>deem from it. And in weakneſs, ſickneſs and old age, we are ſo under the ſentence, as we are not far from the ſea<g ref="char:EOLhyphen"/>ſon of death. Thus becauſe of the daily Incidencies, it is prudential and pious to reckon upon the daily event. And if the Heathens defined life to be <hi>continua mortis con<g ref="char:EOLhyphen"/>templatio, the continual meditation of Death;</hi> Chriſtians with S. <hi>Paul</hi> ſhould turn it into <hi>diurna expectatio, a daily <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing expectation;</hi> and that's one ſenſe of the Text.</p>
+            <p n="2">2. <hi>I die,</hi> imports the vicinity of death: <hi>Gen.</hi> 50.24. <hi>Joſ ph</hi> ſaid, <hi>I die,</hi> (i. e.) <hi>I muſt ſhortly go hence.</hi> So <hi>Jo<g ref="char:EOLhyphen"/>ſhua, This day I go the way of all the earth:</hi>
+               <note place="margin">Joſh. 22 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> He reckoned his death for that day, which happened not long after. So
+<pb n="10" facs="tcp:36421:11"/>
+               <hi>Job</hi> computes to day,<note place="margin">Job 16.22.</note> 
+               <hi>When a few years come, I ſhall go to the place from whence I ſhall not return.</hi> Our years (which are the largeſt meaſure of man's time) are but few by <hi>Moſes</hi> his caſt, <hi>Pſal.</hi> 90.10. yet he makes days the Di<g ref="char:EOLhyphen"/>vidend, though ſeventy years be the Quotient of man's life. And <hi>David</hi> reckons by days, noting that the longeſt life is but a day of life: the Morning of Youth, and Noon of Strength,<note place="margin">Job 9.25. Job 7.1.</note> and Night of Age. Lord, how ſwift is the re<g ref="char:EOLhyphen"/>volution? As a Poſt, or the ſwift Ships, as the day of an Hireling. This, holy <hi>David</hi> thus expreſſeth, <hi>I am afflicted, and ready to die from my youth;</hi> Pſal. 88.15.</p>
+            <p n="3">3. <hi>I die,</hi> is as much as to ſay I am willing to die. It is my indifferency, as to the time, or manner, or place, but if it were left to my choice, I would deſire to be diſſolved, that I might be with Chriſt. The preſent Tenſe is rendred in the Optative Mood. In matters of Faith, by faith things hoped for are made preſent;<note place="margin">Heb. 14.1.</note> and become the matter of Prayer and Option. A good Chriſtian is a Voluntier for the Grave; <hi>Phil.</hi> 1.23. 'Twas S. <hi>Paul</hi>'s choice, and <hi>Si<g ref="char:EOLhyphen"/>meon</hi>'s Prayer, <hi>Luke</hi> 2.29. Having Chriſt in his Arms, who had been ſo long in his hopes, the old Expectant thought it a burden to live longer: our Apoſtle always longing to go hence, and ſeeming long firſt, that which is ſo much in his expectation is frequent in his Option, and that which is ſo much in option is in daily action, and ſuch actions as have a direct tendency to fruition. Death na<g ref="char:EOLhyphen"/>turally conſidered cannot be the object of Election, be<g ref="char:EOLhyphen"/>cauſe it is enmity to nature; and no man rationally deſires his own diſſolution; nor death penally conſidered cannot be the object of man's choice; but as the dying Jeſus hath unſtung it, and conquered its Malignity, and deſtroyed him that had the power of death, and conſecrated <hi>Interi<g ref="char:EOLhyphen"/>tum</hi> into <hi>tranſitum,</hi> a paſſage from earth to Heaven, and <hi>Introitum</hi> the dark Entry to the Manſions of Bliſs; ſo, to die bodily is a deſireable benefit, and Grace turns its ne<g ref="char:EOLhyphen"/>ceſſity into election, and brings inevitable deſtination into
+<pb n="11" facs="tcp:36421:11"/>
+daily exerciſe. We look for death, and ſo with ſubmiſſion to God's will we long for it, not only as a ceſſation from ſufferings, and ſin, and ſorrows, but as our Tranſlation to eternal life, our Convoy to Chriſt, our Change, our Re<g ref="char:EOLhyphen"/>moval; and we daily labour, and give all diligence to be found of Chriſt Jeſus in peace. And,<note place="margin">Job 14.14.</note> 
+               <hi>all the days of our appointed time we wait till our change come.</hi>
+            </p>
+            <p n="4">4. <hi>I die,</hi> imports the Apoſtles fitneſs for death. Then is a Chriſtian fit to die, when he is furniſhed for a better life, and daily practice breeds promptitude, and the exer<g ref="char:EOLhyphen"/>ciſe of dying is a tuning and timeing us for the dying day, that we may be made meet to be partakers of the eternal Inheritance. It is with Chriſtians as with tender and pre<g ref="char:EOLhyphen"/>cious Fruits, they are daily upon ſome incremental change, till they come to be mature and mellow, and fit for uſe, and then they are every day falling to the earth, as ready for the owners hand. In <hi>Job</hi> 5.26. ye have an alluſion to this in that Parabolical Speech of <hi>Eliphaz</hi> to <hi>Job, Thou ſhalt come to thy grave in a full age, as a ſhock of corn cometh in, in its ſeaſon.</hi> This was a promiſe of Honour and Com<g ref="char:EOLhyphen"/>fort in death; As, <hi>a ſhock of corn in its ſeaſon,</hi> notes a rea<g ref="char:EOLhyphen"/>dineſs and ripeneſs for that ſeaſon: <hi>Thou ſhalt come,</hi> notes a willingneſs and chearfulneſs in dying: <hi>In ſeaſon,</hi> notes the ripeneſs and fitneſs for death. Now that the alluſion may fully bear, our Apoſtle helps us to the apprehenſion of it, in the thirty ſixth Verſe of this fifteenth Chapter to the <hi>Corinthians,</hi> he increpates the dullneſs of ignorant Atheiſts, about the Reſurrection; <hi>Thou fool, that which thou ſoweſt, is not quickened, except it die.</hi> Dying is in order to quick<g ref="char:EOLhyphen"/>ening, and Growth, until the Corn come to a full Grain in the Ear, and be ripe for Harveſt, and the Ears are bound <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Sheaves, and the Sheaves gathered into the Shock; and the Shocks into the Barn. And in this ſenſe, though a Child of God die in his Youth, in the Flower and Spring of his days, yet his death is as the Harveſt Sea<g ref="char:EOLhyphen"/>ſon to his hopes, and the gathering of his Soul to God, and
+<pb n="12" facs="tcp:36421:12"/>
+his Body to his Fathers; though in his natural capacity he be cut down whiles he is green, and cropt in the Bud or Bloſſom, yet in his ſpiritual capacity he never dies till he come to ripeneſs. God ripens his Servants ſpeedily, when he intends to take them out of the world ſpeedily; he can and doth let out ſuch warm Rays of his Spirit upon them, as ſhall ſoon maturate the Seeds of Grace into a prepared<g ref="char:EOLhyphen"/>neſs for Glory. This is S. <hi>Paid</hi>'s, and every good Chri<g ref="char:EOLhyphen"/>ſtian's profeſſion, ſo to live, as to be daily ready for death: 'twas holy <hi>Job</hi>'s caſt of his ſtate; <hi>Job</hi> 17.1. <hi>My breath is corrupt, my days are extinct, the Graves are ready for me:</hi> And I am ready for the Grave; I am undreſſing my ſelf daily to lie down in duſt, and ſleep in death; there is no<g ref="char:EOLhyphen"/>thing now for me to think of; I lay all aſide, and attend this buſineſs alone; and 'tis a buſineſs indeed of great ne<g ref="char:EOLhyphen"/>ceſſity, and no ſmall difficulty, daily to caſt upon it, and contrive how I may lie down in peace, and reſt in death; <hi>I have fought a good fight, I have finiſhed my courſe:</hi> I have done my work,<note place="margin">2 Tim. 4.7.</note> and am going to my Bed; I have no<g ref="char:EOLhyphen"/>thing to do but to die, and this is my daily care to ſequeſter my Soul from this world, as one that hath life and portion. and Inheritance in a better. <hi>I die daily.</hi>
+            </p>
+            <p>Laſtly: And ſo <hi>daily dying</hi> notes a continual Exerciſe of Mortification; for in the Chriſtian Dialect, and Scriptu<g ref="char:EOLhyphen"/>ral Style, to <hi>die daily</hi> is a ſpiritual ſanctified Habit, made up of many Acts and quotidian Exerciſes of ſuppreſſing and deſtroying the old man, and the whole body of Sin: and this is meant in thoſe Scriptures which ſpeak of put<g ref="char:EOLhyphen"/>ting off the old man,<note place="margin">Eph. 4.12. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 9. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> beating down the body, and keeping it in ſubjection; the Spring of Grace is a living Fountain always cleanſing away the dead Sediments of Dirt a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mire. The expreſſion of the Holy Ghoſt about this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worthy of our ſerious conſideration; <hi>Rom.</hi> 6.6. <hi>Known that our old man is crucified with him,</hi> (Chriſt) <hi>that the b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ſin might be deſtroyed, that henceforth we ſhould not ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. For he that is dead, is freed from ſin.</hi> Lo here <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:36421:12"/>
+Appellation, and its execution, the old man, partly in re<g ref="char:EOLhyphen"/>ſpect of Antiquity, as old as the eldeſt of men; partly in re<g ref="char:EOLhyphen"/>ſpect of the Renovation,<note place="margin">1 Theſſ. 5.23.</note> which is univerſal of the whole man, Body and Soul. Then 'tis called the body of Sin, partly becauſe mans corrupt nature,<note place="margin">Coloſſ. 3.5.</note> like a body or ſtock brancheth forth into divers actual enormities, as ſo many Members; partly becauſe of its ſtrength, and for that men are as much naturally in love of their Sins, as of their Limbs, and are as impatient of Amputation. But if ye take notice of Sins execution, <hi>This old man is crucified;</hi> Crucifixion is made up of many deliberate Acts, and theſe bring on exquiſite Torments, and the Torments cauſe ſuc<g ref="char:EOLhyphen"/>ceſſive decays every hour; ſo doth Sin by this crucifying Diſcipline grow weaker and weaker, and nearer to its Grave, and utter Abolition. Regenerative Acts give Sin many wounds, though (as thoſe that are crucified) it dieth lingringly, yet it dieth certainly. Sin in the morti<g ref="char:EOLhyphen"/>fying Myſtery, like a man in a Conſumption is always waſting and dying, till at laſt it is quite dead; and the dying day of the Regenerate is the utmoſt date of Sins be<g ref="char:EOLhyphen"/>ing. Thus if as long as we live, we give Sin a daily wound, it may ſprawl and move for a time, but after<g ref="char:EOLhyphen"/>wards giveth up the Ghoſt. For while Saints live, though Sin be mortally wounded, as the creature that hath loſt its ſting, it may rage and ſtir, but it abateth in ſtrength and malignity, and dieth with them. In <hi>Pſalm</hi> 88.4. <hi>Heman</hi> complains, Thus, <hi>My ſoul is full of troubles, and my life draweth nigh to the grave: I am accounted with them that go down into the pit; I am as a man of no ſtrength, free a<g ref="char:EOLhyphen"/>mong the dead.</hi> The ſureſt Interpretation of that ſweet Singers Style and State, is, That he was much exerciſed in this ſin mortifying auſterity: he was a great Proficient in it; as we ſay of one that hath ſerved a rigid Apprenti<g ref="char:EOLhyphen"/>ſhip, he is his Crafts-Maſter, he hath got the knack of it, he is a Freeman at the Occupation. And in this ſenſe death is not to be looked on as a Saints expiration, but as an accu<g ref="char:EOLhyphen"/>mulative
+<pb n="14" facs="tcp:36421:13"/>
+Myſtery, and an high Improvement in the Fa<g ref="char:EOLhyphen"/>culty of Sin-ſlaying. And ſome Ancients have been rare at it, and ſome skillful Chriſtians ſtill are as well verſed in it, and they know how to encounter with Soul-Enemies, as tryed Champions, having been long converſant in the Artillery, and Fencing-School of Chriſt, as that they have been able to teach it by certain Rules and Rudiments: and ſo it is one of the Goſpel-Myſteries in which by frequent exerciſe we may grow Graduates; and S. <hi>Paul</hi> had, it ſeems, commenced Doctor in it, even in this rare Accom<g ref="char:EOLhyphen"/>pliſhment of <hi>Dying Daily.</hi>
+            </p>
+            <p>So then, we are reſolved upon the Queſtion, what this kind of <hi>Dying</hi> is. It is not a natural dying, conſiſting of many gradual Tendencies unto the Diſſolution of this our mortal Body, though in this ſenſe every living perſon is <hi>daily dying.</hi> Nor a providential Dying, which conſiſts in the daily viciſſitudes of Croſſes, Tryals and Diſcom<g ref="char:EOLhyphen"/>forts, though this is the portion of every living Saint, and is in part the aſſertion of our Apoſtle concerning himſelf; but a ſpiritual and practical Dying, conſiſting in the fre<g ref="char:EOLhyphen"/>quent and renewed exerciſe of mortifying Duties, as Re<g ref="char:EOLhyphen"/>penting, Self-denying, Self-judging, ſelf-humbling, dy<g ref="char:EOLhyphen"/>ing unto Sin, mortifying our Members, crucifying our Fleſh, ſubduing our Luſts, being crucified to the world, beating down our Bodies, and bringing them into ſubjecti<g ref="char:EOLhyphen"/>on, ſubjugating our wills, captivating our underſtandings, ſubmitting our reaſon to the righteouſneſs of God, govern<g ref="char:EOLhyphen"/>ing our paſſions, devoting our lives for the teſtimony of our Lord Jeſus Chriſt, and if need be, and God ſo order, to die for our Lord, and ſo to live, as to die in our Lord: and ſo <hi>to die, as to die unto our Lord, that whether we live or die, we may be the Lords.</hi> Theſe and many more ſuch like are but the ſeveral Rules and methods, and quotidian Exerciſes through which good Chriſtians muſt paſs, before they come to the degree of Maſters in this Goſpel-Art. To this S. <hi>Paul</hi> had eminently attained, ſo as it fell
+<pb n="15" facs="tcp:36421:13"/>
+into his daily practice, <hi>I die daily.</hi> Which brings me to the third part of my Text. The Diuturnity of the Apoſtles Practiſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, notes the Frequency, Aſſiduity, Suc<g ref="char:EOLhyphen"/>ceſſion, and unceſſancy of Action. And with reference to what is done, ſuppoſeth time of life to do it in. <hi>To day,</hi>
+               <note place="margin">Joh. 9.4. Eccleſ. 9.10.</note> 
+               <hi>whiles it is called to day;</hi> for the day of life is the working day; 'twas ſo with Chriſt in our fleſh; and the Church<g ref="char:EOLhyphen"/>man <hi>Solomon</hi> tells us, <hi>There is no work, nor device, nor know<g ref="char:EOLhyphen"/>ledge, nor wiſdom in the grave whither thou goeſt.</hi> If we would then ſet on this work, this rare device of Chriſtian Know<g ref="char:EOLhyphen"/>ledge and ſaving wiſdom, it muſt be before we go to our Graves.</p>
+            <p>And it is not the work of a ſingle day neither, but the ſingular work of every day, to be daily doing, as if <hi>daily dying. Nulla dies ſine lineâ</hi> is the laudable induſtry of a Chriſtian; and without doubt there is no Particle of Life allowed for Idleneſs; even Paradiſe and Perfection, the place and ſtate of Innocence and Bliſs, allowed not a ſpace wherein to do nothing: and Heavens Paradiſe, though it be the Saints everlaſting Reſt, yet hath its buſineſs for Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p>But this is to be underſtood of poſitive Acts; but to be <hi>daily dying</hi> ſounds harſhly and uncomfortably to living Ears. Death is a privation, and to die, a privative act; and how can an habit grow out of Privatives? Nay; but this kind of dying is a poſitive duty in the Criſtian Divi<g ref="char:EOLhyphen"/>nity.</p>
+            <p n="1">1. As it is an Act of the new Creature, <hi>to die to ſin, and live unto God;</hi> Chriſt purchaſed this Eſtate to us, and pre<g ref="char:EOLhyphen"/>ferred us to this capacity.<note place="margin">Rom. 6.10.</note> In every birth there is ſomething generated, and ſomething deſtroyed, ſays the Philoſo<g ref="char:EOLhyphen"/>pher; ſo in our New Birth there is the production of Grace, and the deſtruction of Vice; the Life of Righte<g ref="char:EOLhyphen"/>ouſneſs, and the death of Sin. And by <hi>dying daily,</hi> we ſet up the Ark, and throw down <hi>Dagon.</hi> The Sinfulneſs of our Souls by our firſt birth, conſiſted in our averſion
+<pb n="16" facs="tcp:36421:14"/>
+from God and Grace, and our being perverted to the De<g ref="char:EOLhyphen"/>vil, and his works, in the defacing of God's Image, and the imprinting of Satan's. Now the ſanctity of the Soul, that is, its recovery by the ſecond birth, conſiſteth in its converſion to God, and averſion from ſin, to have the I<g ref="char:EOLhyphen"/>mage of the evil one raſed out, and the Impreſs of the Sa<g ref="char:EOLhyphen"/>viour re-ingraven: and the Acts that appertain to theſe Iſſues, muſt be in our daily Exerciſe.</p>
+            <p n="2">2. As it is the Anſwer unto the Divine Ordination; <hi>Romans</hi> 8.29. which is our conformableneſs unto the dy<g ref="char:EOLhyphen"/>ing Saviour; our conformity to Chriſt is here our poſi<g ref="char:EOLhyphen"/>tive Duty in Grace, as it ſhall be our everlaſting Dignity in Bliſs; and the Elect are ſent into the world, to be plant<g ref="char:EOLhyphen"/>ed into the likeneſs of Chriſt in his Death and Reſurrecti<g ref="char:EOLhyphen"/>on; to this end baptiſed into Chriſt, that we may follow his Steps,<note place="margin">Phil. 3.10.</note> as well as bear his Name, and ſo be found in the fellowſhip of his Graces and ſufferings; and all his life was a continued dying, until his hour came, that he died once for all. There is a pertinent, but difficult Text for this in S. <hi>Paul</hi>'s caſe; <hi>Coloſſ.</hi> 1.24. <hi>I fill up that which is behind</hi> (ſaith he) <hi>of the afflictions of Chriſt in my fleſh, for his bodies ſake which is the Church.</hi> The perſonal Suffer<g ref="char:EOLhyphen"/>ings of Chriſt which he endured in his own body, as the Mediator, are once for ever finiſhed; but his general Suf<g ref="char:EOLhyphen"/>ferings which he endures in his myſtical Body, the Church, are yet behind, and muſt be filled up by S. <hi>Paul,</hi> and his Fellows, and Followers. Not in way of Office, as meri<g ref="char:EOLhyphen"/>torious, and ſatisfactory: nor in proportion of weight and meaſure, but in reſpect of their Cauſe, and Managery, and Iſſue. Thus in dying, by way of Reſemblance; <hi>Rom.</hi> 6.10, 11.</p>
+            <p>And the likeneſs is in theſe Inſtances, voluntarily, our <hi>daily dying</hi> muſt be ſpontaneous. Though there be a great Reluctancy between Fleſh and Spirit, Grace and Nature, the pure will of God and the perverſe will of Man, yet the ſuperior powers of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> carry the Maſtery;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſanctified
+<pb n="17" facs="tcp:36421:14"/>
+reaſon conſents to mortifying Acts. To <hi>die daily,</hi> is as irkſome to Self-love; as the Cup was to Chriſt's Fleſh, in the day of his Agony; yet he willingly drank, becauſe it was his Fathers will he ſhould.</p>
+            <p>Yet Chriſt's Death was violent, he died not of nature, but of force. So ſhould our ſelf-mortifying be, voluntary, in reſpect of us; but violent, in reſpect of ſin. And herein is the life of <hi>daily dying,</hi> that we lay violent hands on our corruptions, pluck out the right Eye, cut off the right Hand, ſmite the ſinful Breaſt, break the perverſe Heart, and kill and deſtroy ſin in its Flower, ſtrength and vigour; many leave their ſins, who never mortified them. He that <hi>dies daily,</hi> never ſtays till his ſins die; for Luſts, like Weeds, if let alone, will deſtroy all the good Seeds, and then wither of themſelves. The old Adulterer hath left his Luſt, becauſe his Body is dead. And the griping Mammoniſt is angry with the world, but it is becauſe he can enjoy it no longer.<note place="margin">Eccleſ. 12.1.</note> 
+               <hi>O remember thy Creatour in the days of thy youth, before the days come when thou ſhalt ſay, I have no pleaſure in them;</hi> is a pertinent Caveat. 'Twere good to condemn and execute ſin, without Reprieve; let not Luſt live till to morrow, bring your vicious Habits forth ſpee<g ref="char:EOLhyphen"/>dily in the ſight of God, arraign, condemn, crucifie them now, mortifie them whiles they might yet live.</p>
+            <p>Yet, the Death of Chriſt was lingring,<note place="margin">Matth. 27.45.</note> he hung divers hours upon the Croſs; our <hi>Dying</hi> is <hi>daily,</hi> ſin cannot be deſtroyed all at once; cut a Serpent in pieces, yet every part will ſtir. Sin will dwell in us long, though it have not Dominion. Like a rebellious Tenant,<note place="margin">Rom. 7.17.</note> it keeps poſ<g ref="char:EOLhyphen"/>ſeſſion in ſpight of the owner, till the Houſe be pulled down ever his Head.</p>
+            <p>True, the Body of Sin hath in the Regenerate received its deaths wound, but it is not quite dead: there is not the moſt ſanctified Soul but hath ſome remainders of Corrupti<g ref="char:EOLhyphen"/>on left in it, enough to require our daily Conflict; which God in his wiſe providence permits for the trying and exer<g ref="char:EOLhyphen"/>ciſing,
+<pb n="18" facs="tcp:36421:15"/>
+and humbling of us, and for the making his own rich Grace in renewing his pity, and multiplying his par<g ref="char:EOLhyphen"/>dons, ſo much the more exceeding glorious.</p>
+            <p>You find now that dying is a Duty, and it is as neceſſary as our Bread: this is daily in our petition, as it is daily in our need. Dying ought to be daily in our practice, as it is daily at our Doors. We had need to ſet death before us, under the eaſieſt, moſt familiar, and feaſible conſiderations: as the days of a mans life come about quickly, and one of thoſe days is the Boundary of our Cares, ſo let it be of our diligence, ſo to number them, as to apply our hearts to this wiſdom of <hi>dying daily.</hi> That which muſt be of neceſ<g ref="char:EOLhyphen"/>ſity once, ſhould be admitted into our frequent account and exerciſe. Let us look upon dying as the Chri<g ref="char:EOLhyphen"/>ſtians Buſineſs, and not as the Creatures Curſe; and labour to attain the Art oft, that we may bear the painful ſtroke the better. The day will come ere long, when it will be in vain to ſay, I have no mind to die, or I have no leiſure, or I am not ready, not yet, I'll think on't: What if <hi>Eſay</hi>'s Meſſage to <hi>Hezekiah</hi> were ſent thee?<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 20.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Set thine houſe in or<g ref="char:EOLhyphen"/>der, for thou ſhalt die, and not live:</hi> Wouldſt thou not ra<g ref="char:EOLhyphen"/>ther live and die too?<note place="margin">Heb. 2.13. Luke 12.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 'Tis poſſible you ſee; but what if it ſhould be ſaid, <hi>Hâc nocte,</hi> then <hi>Donec cognominatur hodie</hi> had ſounded better. Die <hi>whiles it is called to day, thou fool, for this night thy ſoul ſhall be taken from thee.</hi> To die once is our Deſtiny, and to <hi>die daily</hi> our Duty, why ſhould we not bring them into our familiar acquaintance: the day of dying is not far from us; by <hi>dying daily</hi> we bring it to our hand; 'tis in our natures, why ſhould it not be ſo much in our expectations, as to be daily in our exerciſe? The ſpi<g ref="char:EOLhyphen"/>rit of God every where ſpeaks of it in reference to the Saints, in the moſt comfortable and grateful expreſſions, as of that which we have daily in our uſe and obſervation. We aſcribe this to the influence of the dying Jeſus, who hath ſo embalmed, yea, and cloathed Mortality by the dreſs of Holy Language, that there is even a Sweetneſs,
+<pb n="19" facs="tcp:36421:15"/>
+Beauty and Bleſſing in it; when a man hath worn a Suit of Apparel a great while, even until it be thread-bare, or it becomes foul and unſeemly, would he not be glad to put that off, and get a new Garment on his Back: therefore death is called an uncloathing, 2 <hi>Cor.</hi> 5.2, 3, 4. a putting off the Fleſh; and in anſwer to that corporal Diveſture; the ſpiritual diſapparelling is ſo alſo called,<note place="margin">Eph. 4.22.</note> a putting off the old man with his deceivable luſts, and there is no hurt in that, we are willing to change and ſhift daily.</p>
+            <p>When a man hath tired himſelf all the day at his work, would he not gladly go to Bed? and our ſinful courſe is ſo la<g ref="char:EOLhyphen"/>borious and weariſome, as that it is never well with us, till we come to our reſt; and that's no where to be had but in Chriſt.<note place="margin">Matth. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.28.</note> Do we not betake our ſelves to our reſt every E<g ref="char:EOLhyphen"/>vening; therefore our death is called our ſleep; and if we daily need our ſleep,<note place="margin">1 Cor. 15.20.51.</note> why are we not daily ſolicitous for our reſt and refreſhment in Jeſus? under theſe apprehen<g ref="char:EOLhyphen"/>ſions the Holy Spirit would have us bury all hard thoughts of Dying, and that we would familiariſe it into our daily endeavours, ſo to practiſe how to die to day, that we need not fear to die to morrow; the main reaſon of the terrible<g ref="char:EOLhyphen"/>neſs of Death is, that Mortals look on it at a greater di<g ref="char:EOLhyphen"/>ſtance than it is, and it is of a more ghaſtly and formidable aſpect to thoſe that are ſtrangers to it. And indeed what Iſraelite is not apt to run at the ſight of this <hi>Goliah?</hi> the fear of dying is natural, and ſo far from being evil, that it was incident unto the Son of God, who was heard in that he feared; Chriſtianity ſerves not to deſtroy, but rectifie na<g ref="char:EOLhyphen"/>ture; and Grace regulates this paſſion in us, and corrects its exorbitances, never intending to root it out. And this is the method of Grace by daily exerciſe to maſter this fear, though we cannot avoid it. Whiles my fear apprehends <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt terror in the face of death, let my Faith carry me to the crucified Jeſus, who hath both overcome and ſweetned it, let me in the exerciſe of that Faith daily ſet my ſelf a<g ref="char:EOLhyphen"/>gainſt ſin, and world, and fleſh, and Devil, and the ter<g ref="char:EOLhyphen"/>rors
+<pb n="20" facs="tcp:36421:16"/>
+of Death disband. It is an excellent Chriſtian Tem<g ref="char:EOLhyphen"/>per always to dwell in the Voyſinage of the Grave; as we do in our frailty, ſo ſhould we in our faith, and hope, and humble preparations, lie at deaths door; and though na<g ref="char:EOLhyphen"/>ture is loath to long for the Grave, becauſe ſhe holds diſſo<g ref="char:EOLhyphen"/>lution her greateſt enemy (for what can ſhe abhor more than a not being;) yet Faith perſwades, that to die is gain. Would we not carefully trade every day in that which is lucrous,<note place="margin">Phil. 1.21.</note> and profitable? Let us therefore come into S. <hi>Paul</hi>'s practice, of daily living, ſo as dying may be advan<g ref="char:EOLhyphen"/>tageous; we have fair reſpite given us in life, which at beſt is but a ſpan, God might ſhorten it into an Inch, but that he lengthens the day in order to further our work, and that which is ſanctified by the dying Saviour for our ceſſation, is required as our unceſſant Employ. 'Tis a woful Con<g ref="char:EOLhyphen"/>verſion that we read, <hi>The ſting of death is ſin;</hi> and again, <hi>The ſting of ſin is death;</hi> both meet in man to make him miſerable: death could not have ſtung us, neither had it been at all in the world, had it not been for ſin: and ſin, though in it ſelf extremely hainous, yet were not ſo dread<g ref="char:EOLhyphen"/>ful, if it paid not ſo horrible Wages: How do we owe our ſelves to the Mercy of our Saviour, who hath freed us from the evil of both; having pulled out the ſting of death that it cannot hurt us; and having taken ſuch courſe with the ſting of ſin, which is death, that inſtead of hurt<g ref="char:EOLhyphen"/>ing, it ſhall be exceeding helpful, and is tranſlated into our daily duty and benefit? Into what a ſafe condition hath the Lord of Life put us, as that we may daily be exerciſed a<g ref="char:EOLhyphen"/>bout ſin and death, without dread or danger?</p>
+            <p>O let not the patience and ſparing Mercies of God be longer abuſed by us into ſecurity and ſpiritual deadneſs; whiles life is only lent us, and the days of life are length<g ref="char:EOLhyphen"/>ned to us, only in reference to the fitting and better fur<g ref="char:EOLhyphen"/>niſhing us to die at laſt; why do we not put our ſelves into the daily expectation of, and preparation for that which ſhall ſhortly put an end to us, and our days, and duties and
+<pb n="21" facs="tcp:36421:16"/>
+all? We have daily preparations and appurtenances for thoſe very things which repreſent our death, our journey<g ref="char:EOLhyphen"/>ing, our apparelling, our ſleeping; and why not for our dying too?</p>
+            <p>We need it much, and it is as neceſſary for us to <hi>die daily,</hi> is to die once; we have abundance of ſins and corrupti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns to ſubdue, of cares and croſſes to manage, of Gifts and Graces to improve, a great Task, and but a little time, and it is neceſſary (if we were ſo convinced) to be daily <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing that upon which eternal life and death depend; it were no great matter, if we had but one death, that of the body, to forethink of; and it were needleſs to multi<g ref="char:EOLhyphen"/>ply the evil of dying one day, by acting it every day, for all could not prevent it, though we may be the better qua<g ref="char:EOLhyphen"/>lified for it; but there is the ſecond death, which calls for the preventives of daily mortification, leſt we die eternally. Whoſo <hi>dies daily,</hi> when he goes hence no more to re<g ref="char:EOLhyphen"/>turn, ſhall carry a good conſcience with him, (for an evil conſcience is a worm that never dies) and leave a good name behind him, and that is very long lived;<note place="margin">Prov. 12.7.</note> every man is hugely unwilling that his good name ſhould die, we are naturally ambitious of being thought of when we are gone; thoſe that have not living Monuments to perpetuate them, affect to have dead; if <hi>Abſalom</hi> have not a Son, he will erect a Pillar; yet when we have done all, time eats all out at laſt; there is no remembrance of the wiſe more than of the fool for ever, ſeeing that which now is, in the days to come ſhall all be forgotten; here's a project then for a laſting Memorial. <hi>Enoch</hi> walked with God, and was not, for God took him; his walking with God did not exempt him from <hi>dying daily,</hi> but engaged him in it: and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is not being here below was his bleſſedneſs; and his whole ſtory is upon record, though in a ſmall Character, to the everlaſting praiſe of his Faith; <hi>Heb.</hi> 11.5. It is the Glory of the Chriſtian Life to be daily under the Croſs; and as Chriſt once for all died on't,<note place="margin">Luk 9.12.</note> ſo for us daily <hi>to bear
+<pb n="20" facs="tcp:36421:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:36421:17"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:36421:18"/>
+in our bodies the marks of the Lord Jeſus,</hi>
+               <note place="margin">Gal. 6.17.22.</note> who paſſed to his Glory through the ſtraits of daily ſufferings, till he finiſh<g ref="char:EOLhyphen"/>ed all upon the Croſs of his deadly Paſſion; <hi>Et moriendo vi<g ref="char:EOLhyphen"/>cit:</hi> he conflicted all his life by <hi>daily dying;</hi> he conquered by his death once for all.<note place="margin">2 Cor. 4.10, 11.</note> Thus by a lively faith in the Ho<g ref="char:EOLhyphen"/>ly Jeſus we encounter with, and overcome our quotidian deaths, our afflictions, in purſuance of a better life; we are in deaths oft,<note place="margin">Pſa. 44.22.</note> and ſlain all day long, as it were by piece-meal, under the tyranny and troubles of a wordly life, and yet are alive unto God and our ſelves; yet it is a kind of death to be deprived of thoſe comforts which are the life of our lives; but if it be for the Lords ſake, in his way, and for his ends, it is a kind of daily Martyrdom, to be ac<g ref="char:EOLhyphen"/>counted as Sheep for the ſlaughter. This then is an excel<g ref="char:EOLhyphen"/>lent means to make our names to be Heirs to our Lives, that we live at the rate of this Myſtery,<note place="margin">Eph. 3.9.</note> as in that Fellow<g ref="char:EOLhyphen"/>ſhip of it; always bearing about in the Body the dying of the Lord Jeſus, that the life alſo of Jeſus might be made manifeſt in our Body, for we which live are always delivered unto death for Jeſus ſake, that the life alſo of Je<g ref="char:EOLhyphen"/>ſus might be made manifeſt in our mortal fleſh.</p>
+            <p>Lo here, a Communion betwixt the dying Jeſus, and dying Chriſtians (in the ſenſe and ſcope of the Text) in his Death and Reſurrection. The Lord Jeſus died in the Body, ſo muſt we; he once, we always; he bare his dying in the Body patiently and exemplarily on the Croſs, we muſt bear it about; his dying was by Crucifixion, ours by a ho<g ref="char:EOLhyphen"/>ly and ſpiritual Necroſie or Mortification; his new life was the manifeſtation of his Victory, and it is manifeſted in our mortal bodies, by new obedience.</p>
+            <p>So then our bleſſed Jeſus can beſt give the rule of <hi>dying daily,</hi> who died for us; not only for our Ranſom, but for our Pattern; to ſatisfie for us by dying, and to exemplifie the dying Myſtery to us; and therefore he redeemed us from death, only as to its curſe, and left us a method of cure and comfort in dying; wherein elſe can death be our
+<pb n="23" facs="tcp:36421:18"/>
+gain, unleſs it become our Faculty and daily Trade, and if perſons bungle in their Calling, they loſe credit, and com<g ref="char:EOLhyphen"/>fort, and cuſtom, and profit, and all, and turn Bankrupts in Religion; ſo as we have need to ſtudy this Myſtery ſe<g ref="char:EOLhyphen"/>riouſly, and practiſe it ſedulouſly, for it is by thoſe that have experienced it a hard work to die both in the body, and out of the body.</p>
+            <p>Nevertheleſs it is feaſible, elſe it had never been given us in precept, or purchaſe, or pattern; no doubt that which was done by Chriſt, and S. <hi>Paul,</hi> and many others their ſucceeding Diſciples may in proportion be done by us, if we reſolvedly ſet about it.</p>
+            <p>Let me give you ſome Incentives by way of conſidera<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="1">1. He that <hi>dies daily,</hi> can on no day die ſuddenly. I conſi<g ref="char:EOLhyphen"/>der, that man is ſure that he ſhall not die ſuddenly; and therefore if Heaven be worth ſecuring, it were fit that we ſhould reckon every day the Veſpers of Death, and therefore that according to the Rites of Grace, the day be begun and ſpent with Religious Offices. And if uncertainty of condition be an abatement of felicity, and ſpoils the good we poſſeſs, no man can be happy that doth not ſecure his felicity by an habitual and living piety; for ſince God hath not told us when or where, or by what means we ſhall die: is it not certain he intended we ſhould be daily ready for that whereof we are in jeopardy every hour? A wiſe man therefore ſuppoſeth himſelf always upon his Death-bed; and ſuch a ſuppoſition is like making of his will, he is not the nearer death for doing it, but is the readier for it when it comes; and he that <hi>daily dies,</hi> bequeaths his Soul to God, his Body to the earth, and his Goods to the uſes of Righteouſneſs, Holineſs and Charity; S. <hi>Jerom</hi> ſaid well, <hi>He deſerves not the name of a Chriſtian, who lives in ſuch a ſtate, in which he would not die.</hi> And indeed it is a great venture to be in an evil ſtate of life, becauſe every day and minute of it hath a danger; and therefore ſuch a ſuc<g ref="char:EOLhyphen"/>ceſſion
+<pb n="24" facs="tcp:36421:19"/>
+of Actions, in every one of which he may as well periſh as eſcape, is a fooliſh boldneſs wherein there is no mixture of wiſdom, or pious forecaſt.</p>
+            <p n="2">2. There is great gain in dying for ſuch as by frequent exerciſe are got skilled in it. <hi>Job</hi> tells us of ſome that die without wiſdom; certainly, they that never learn'd of God to number their days, are to be numbered among thoſe Ignorants; the Learned in this Arithmetick reckon their days not by multiplication, but by ſubſtraction, ſo much for God, for Heaven, for Chriſt, for Soul, and for the Eternity, as that the leaſt part of time, if any, belongs to this life. <hi>There is a time to be born, and a time to die,</hi> ſays the Preacher; but he allows no term for this life. For as ſoon as a man is born, that which in nature only remains to him, is to die; and it is a wonder, ſince all the Records of Scripture urge the certainty of death, the uncertainty of its day, the horror of the day of Judgment, the ſeve<g ref="char:EOLhyphen"/>rity of God, the diſſolution of the world, the neceſſity of our laſt account; and from all theſe premiſes the Spirit of God makes no other Inference, but that we watch and be ſober, and ſtand in a readineſs, that we live in all holy converſation and godlineſs, that we repent and turn to God, that we try and examine whether we are in the faith, that we work out our Salvation, and make our Calling and E<g ref="char:EOLhyphen"/>lection ſure. And the Doctrines, and Rules, and Offices, and Acts of Preparation are every where interſperſed in Holy Scripture, yet this among the reſt which is indeed the Epitome of all, To <hi>die daily,</hi> is looked on as a Riddle, and Paradox, rarely received into the Faith and Practice of Men, called Chriſtians; only ſome choice Souls hit on't<g ref="char:punc">▪</g> and to ſuch, <hi>To live is Chriſt, and to die is gain.</hi> And we have ſeen the vaſt difference of managing death, when ſome inexpert perſons have been called to it, and the more experienced have been brought forth as Champions in Chriſt on the ſtage of the Death-bed. It muſt needs come from this diſcriminating Character, ſome with <hi>Paul</hi> have
+<pb n="25" facs="tcp:36421:19"/>
+died ſo oft, that they are grown intimate with it, and act it to the life like <hi>Jacob;</hi> and are meetly furniſhed for their Tranſlation, as <hi>Enoch.</hi> And with <hi>Stephen</hi> firſt ſee the Hea<g ref="char:EOLhyphen"/>vens opened; and then paſs in with inexpreſſible Joy and Raviſhment; certainly ſuch have been much verſed in dy<g ref="char:EOLhyphen"/>ing whiles they lived, who die their laſt in ſo lively an aſ<g ref="char:EOLhyphen"/>ſurance.</p>
+            <p n="3">3. He that <hi>dies daily</hi> hath but one days task to do when he dies. He is come to his Journeys end after his dayly Travel, and he is like a hard Traveller in this, he is leſs weary the laſt day, than when he firſt ſet out; he can caſt up his account readily, for he kept his Day-book exact; and now he is ready to be offered, and the time of his de<g ref="char:EOLhyphen"/>parture is at hand, he reviews his whole life, and it hath been a continual Fight,<note place="margin">2 Tim 4 6.7.3.</note> and now he begins his Trium<g ref="char:EOLhyphen"/>phant aſſault; he hath daily been in his courſe, and now comes to finiſh it, and to paſs to his Crown.</p>
+            <p>O the deſperate ſtate of ſuch as inſtead of <hi>dying daily,</hi> are ſinning daily, and ſo are dead whiles they live; ſuch are they as are drunk daily, ſwear, and whore, and pro<g ref="char:EOLhyphen"/>phane and debauch daily, Epicures, Epheſian Beaſts, Cre<g ref="char:EOLhyphen"/>tian Liars daily; who eat and drink to day, though they die to morrow; O take heed of dallying with death; and ſince all our life we are dying, and this minute in which I now ſpeak death divides with me, and hath got the ſurer part, and more certain poſſeſſion; it is but rea<g ref="char:EOLhyphen"/>ſonable we ſhould be daily up<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ces of preparation. If to day we were not dying, and paſſing on to our Graves, then we might with more ſafety protract our work till to morrow; but the age of every day is a beginning of death; and the night going <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing us to ſleep, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds us go to our leſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, becauſe that night which is the end of the prece<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng day is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a leſſer death, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d but a ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſter and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> G<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and whereas now <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have died ſo many
+<pb n="26" facs="tcp:36421:20"/>
+days, the laſt day of our life is but the dying ſo many more, and when that laſt day of dying will come we know not; methinks this very conſideration ſhould put us ſpeedily upon the Religion of dying. There is no<g ref="char:EOLhyphen"/>thing to be added but the circumſtances of ſickneſs, which alſo happens many times before, only men are pleaſed to call that death which is the end of dying, when we ceaſe to die any more; and therefore to delay dying till then, is to put off the work of all our life till the time comes, in which it is to ceaſe and determine.</p>
+            <p>Remember how it was in thy purpoſes on thy laſt Sick-bed; O that thy health might be ſuch as thy ſickneſs pro<g ref="char:EOLhyphen"/>miſed; then thy mind was fixed on pious things, and thou prayedſt for ſparing mercy, and wert vowing religiouſly, and thought on thy ſins with ſorrow and ſhame, and the Prayers of the Church were needful and comfortable, and the Miniſters company and counſel deſirable, and good diſcourſe acceptable; and O if thou hadſt time in hand a<g ref="char:EOLhyphen"/>gain what a new man thou wouldſt be? Thy caſe is the ſame ſtill: if thou flatter not thy ſelf, thou art no farther from thy Grave, when on thy feet, than when on thy ſick Bed, only thou haſt now in health better ſtrength and bet<g ref="char:EOLhyphen"/>ter helps, and better opportunities than when thou laſt wert dying: return then to thy ſickly, but ſerious purpo<g ref="char:EOLhyphen"/>ſes and perform them now in thy health and freedom, and practiſe to die now, and 'twill be an eaſier and happier task at laſt.</p>
+            <p>And to facilitate all, look ſtill on the dying Jeſus; tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> art called to a conformity with him whoſe name tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beareſt; and if thou name the name of Chriſt, depart from iniquity, decline and abandon all ſuch Acts in life, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might not be done if thou wert dying. Every day t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> view of your laſt, and think either it is this, or might be and remember Chriſt in the fleſh was always doing his F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther's
+<pb n="27" facs="tcp:36421:20"/>
+Work, which was, to die for Sinners. O let us not live in the love of Sin, becauſe Chriſt ſo loved us as to die for our Sins, and to ſave our Souls from the ſecond death. He began his Works betimes, all his days were dying days; till the hour came that he died for all:<note place="margin">Phil. 3.10</note> he was always waiting for his Fathers appointed time, he was always faithful to his Fathers work and truſt. He held his life up<g ref="char:EOLhyphen"/>on his Fathers Terms, reſolved himſelf into his Fathers Will; and at the laſt reſigned his life into his Fathers Hands: <hi>Abi in, &amp; fac ſimiliter, Go thou, and do likewiſe: Being made conformable to his death.</hi>
+            </p>
+            <p>Chriſt died for Sin in way of Expiation, Satisfaction and Pacification betwixt his Father and us; we die unto Sin in a way of Crucifying, Mortifying, and deſtroying it in our ſelves.</p>
+            <p>O 'tis a painful Task: but it is a gainful State. It ſe<g ref="char:EOLhyphen"/>queſters us from the comforts of life. I ſay it ſweetens and ſanctifies, and makes all comforts ſavory.</p>
+            <p>'Tis hard and irkſome only to corrupt fleſh.</p>
+            <p>It rebates only the groſſer and more feculent parts of our preſent Contents, and Secular Enjoyments. 'Twill keep death in our minds in the height of our merriments; 'tis as a deaths head in the Lordly Diſhes of our Feaſts; it is to corrupt minds no other than all Salvation work is, grie<g ref="char:EOLhyphen"/>vous and burdenſome; but to the Faith of God's Elect ea<g ref="char:EOLhyphen"/>ſie and delightſome; to pluck out the Right Eye, is by in<g ref="char:EOLhyphen"/>terpretation, not to have eyes full of Adultery; to cut off the hand, is to eſchew all Acts of Violence, Oppreſ<g ref="char:EOLhyphen"/>ſion, Theft or Fraud; to crucifie the fleſh, is but to keep the lower Faculties, and bruitiſh Appetites from rebelling, and riſing againſt the ſupremacy of Reaſon and Vir<g ref="char:EOLhyphen"/>tue.</p>
+            <p>
+               <pb n="28" facs="tcp:36421:21"/>And ſo the Spirit of this Letter, To <hi>die daily,</hi> is no o<g ref="char:EOLhyphen"/>ther than to order our ſelves, and our converſations aright, as Men, and as Chriſtians, in hope of a better life, when this is done, which God ſhall ſhew us in Chriſt, and here Seal unto us by his Holy Spirit, to which our temporal Death ſhall tranſlate us, even our full Salvation. Which God of his infinite Mercy grant, <hi>&amp;c.</hi>
+            </p>
+            <div type="publishers_advertisement">
+               <head>Newly Printed,</head>
+               <p>THe Glory and Happineſs of the Saints in Heaven; or a Diſcourſe concerning the bleſſed State of the Righteous after Death; with Motives and En<g ref="char:EOLhyphen"/>couragements unto all Chriſtians to ſecure to them<g ref="char:EOLhyphen"/>ſelves an Intereſt therein. <hi>Sold by</hi> Nathanael Ranew <hi>at the</hi> King's-Arms <hi>in St.</hi> Paul's <hi>Church-yard.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
